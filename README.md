@@ -12,6 +12,11 @@ This repository contains a Python script designed to process HTML files generate
 
 The application ensures a user-friendly interface with a step-by-step process, making it suitable for users with minimal technical background.
 
+# run
+```
+python app.py
+```
+
 ---
 
 # Midjourney聊天HTML处理器
@@ -25,5 +30,10 @@ The application ensures a user-friendly interface with a step-by-step process, m
 - 选择HTML文件：用户可以从本地文件系统中选择一个HTML文件。
 - 处理HTML内容：脚本解析所选的HTML文件，提取特定元素（图片、头像、时间戳和文本内容），并将其重新构造成卡片式布局的新HTML文件。
 - 保存处理后的文件：处理后的HTML内容将保存到用户指定的位置。
+
+# 运行
+```
+python app.py
+```
 
 该应用程序提供了一个用户友好的界面，步骤清晰，即使是技术背景较少的用户也可以轻松使用。
